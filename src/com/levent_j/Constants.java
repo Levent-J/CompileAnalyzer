@@ -5,8 +5,8 @@ package com.levent_j;
  */
 public class Constants {
     public static final String PATH = "/home/levent_j/compiletest";
-    public static final String LEX_IN_FILE_NAME = "test_in.txt";
-    public static final String LEX_OUT_FILE_NAME = "test_out.txt";
+    public static final String LEX_IN_FILE_NAME = "test_in.pas";
+    public static final String LEX_OUT_FILE_NAME = "test_out.dyd";
     public static final String LEX_ERROR_OUT_FILE_NAME = "test_error.txt";
 
     public static final String CHAR_EOLN = "EOLN";
